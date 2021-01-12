@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, This is Technical Club - aka [codeSTACKr][website] 👋
+### Hi there, This is Technical Club - aka [TC:EC][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.bitptechnical.org.in)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https:https://www.instagram.com/bitptechnical/)
+<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.bitptechnical.org.in)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https:https://www.instagram.com/bitptechnical/) -->
 
-## I'm a Club supporter of Engineers, Developer, and Technology!!
+## I'm a Club and a supporter of Engineers, Developers, and Technology!!
 
 - 🔭 I just going to have an event called Xordium in the Club
 - 🌱 I’m currently learning everything from students🤣
